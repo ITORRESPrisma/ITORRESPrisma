@@ -30,7 +30,6 @@ y el que permite crear un Hosting (ITORRESPrisma/ITORRESPrisma.git.io)
 # Pasos Basicos
 git init
 git add README.md
-git commit -m "first commit"
-git branch -M main
+git commit -m "descripcion del commit"
 git remote add origin https://github.com/ITORRESPrisma/ITORRESPrisma.git
-git push -u origin main
+git push -u origin master
