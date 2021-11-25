@@ -26,3 +26,11 @@ Github Desktop
 2 nombres magicos
 El de su cuenta de GIT, el nombre de usuario (ITORRESPrisma/ITORRESPrisma)
 y el que permite crear un Hosting (ITORRESPrisma/ITORRESPrisma.git.io)
+
+# Pasos Basicos
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ITORRESPrisma/ITORRESPrisma.git
+git push -u origin main
