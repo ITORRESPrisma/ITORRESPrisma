@@ -23,11 +23,11 @@ git config --global user.email "mlapeducacion@gmail.com"
 LOCAL: Que su responsitorio se haga con este usuario y esta correo
 
 ```bash
-git config --local user.name "Maximilano Principe" 
+git config --local user.name "Ignacio Torres" 
 ```
 
 ```bash
-git config --local user.email "mlapeducacion@gmail.com" 
+git config --local user.email "itorres@prismamp.com" 
 ```
 
 # Como verfico la configuración del usuario y el email
@@ -84,18 +84,18 @@ https://docs.google.com/document/d/1MubmU3zNOg_mqu5swVWb-GG0lyeTXKal-h2GVJduvZI/
 
 El de su cuenta de git, el nombre de usuario
 
-mlapeducacionit/mlapeducacionit
+ITORRESPrisma/ITORRESPrisma
 
 Y el que permite crear un hosting (Configura el GitHub Pages)
 
-mlapeducacionit/mlapeducacionit.github.io
+mlapeducacionit/ITORRESPrisma.github.io
 
 # PASOS BÁSICOS Iniciales
 
 1. git init
 2. git add README.md || git add .
 3. git commit -m "descripción del commit"
-4. git remote add origin https://github.com/suusUarioGIT/suRepositorio.git
+4. git remote add origin https://github.com/ITORRESPrisma/ITORRESPrisma.git
 5. git push -u origin master
 
 # Luego de los pasos básicos
